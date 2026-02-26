@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm <a href="todoroviczoran.com" target="_blank" rel="noopener noreferrer">Zoran Todorović</a>
+<h2 align="left">Hi, I'm <a href="todoroviczoran.com" target="_blank" rel="noopener noreferrer">Eric Cruz</a>
  <a href="todoroviczoran.com"></a></h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
