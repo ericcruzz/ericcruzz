@@ -9,7 +9,7 @@ I like to focus on continuous improvement and collaborative work.
 ### Connect with me 🔗 :
 <br>
 <p align='center'>
-<a href = "https://drive.google.com/file/d/1jRHQ1MHQURUOPeVMJ4J5k2HGPfDzCAwA/view?usp=drive_link">
+<a href = "https://drive.google.com/file/d/1dhi3BPiHRu7CtezsGbORrDtuhAAUPGwL/view?usp=drive_link">
 <img src="https://img.shields.io/badge/CV-8A2BE2?style=for-the-badge&logo=readdotcv" target="_blank"></a>
 <a href="mailto:eric.cruz.snz@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
